@@ -1,4 +1,4 @@
-# UPS Kargo Takip Uygulaması
+# UPS Kargo takibi için cli tool.
 
 Bu uygulama, UPS kargo şirketinin web sitesinden paket takip bilgilerini çekerek, terminal üzerinde görsel olarak sunan bir Go programıdır.
 
